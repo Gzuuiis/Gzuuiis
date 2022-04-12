@@ -1,4 +1,4 @@
-## Olá eu sou o Robert Costa 👋
+## Olá sou o Robert Costa, estudante técnico de Informática p/ Internet.
 
 <div align="center">
   <a href="https://github.com/Gzuuiis">
