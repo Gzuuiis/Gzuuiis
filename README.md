@@ -1,26 +1,18 @@
-## Olá sou o Robert Costa, Técnico em Informática p/ Internet.
+# Olá, Meu nome é Robert! <img height="20px" width="20px"  src="https://github.com/snipe/awesome-emoji/blob/master/gaming/mario/Coin.gif" /> 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Gzuuiis)](https://github.com/Gzuuiis)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/robertcostafer/)
 
-<div align="center">
-  <a href="https://github.com/Gzuuiis">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gzuuiis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gzuuiis&layout=compact&langs_count=7&theme=dark"/>
-</div>
+### Sobre mim
+Eu sou um Desenvolvedor Web Full-Stack, atualmente estudando Java e Spring!
 
-#
+          
 
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Robert Costa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<h2>Conhecimentos</h2> 
 
-<img align="center" alt="Robert Costa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+- <h3> Front-End:        <h3> <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
-<img align="center" alt="Robert Costa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-
-<img align="center" alt="Robert Costa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-
-<img align="center" alt="Robert Costa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
-
-<img align="center" alt="Robert Costa" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-
-</div>
-
-##
+- <h3> Back-End:        <h3>  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
+- <h3> Banco de Dados:  <h3>  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+          
+          
