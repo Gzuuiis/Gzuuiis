@@ -7,7 +7,7 @@ Eu sou um Desenvolvedor Web Full-Stack, atualmente estudando Java e Spring!
 
           
 
-<h2>Conhecimentos</h2> 
+<h2>💻 Tech Stack</h2> 
 
 - <h3> Front-End:        <h3> <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> 
 
