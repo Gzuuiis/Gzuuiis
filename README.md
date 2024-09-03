@@ -3,7 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/robertcostafer/)
 
 ### Sobre mim
-Sou Desenvolvedor Web Full-Stack, atualmente estudando Java e Spring!
+Prazer, Robert! Atualmente, trabalho como estagiário na Navigator Inteligência em Investimento, focado no desenvolvimento de interfaces web e otimização de sistemas.
+Estou em constante aprendizado, aprimorando minhas habilidades em Docker e Laravel, e cursando Tecnologia em Análise e Desenvolvimento de Sistemas na UERJ-ZO. 
+Busco crescer profissionalmente, contribuindo com soluções e ideias. 
 
           
 
