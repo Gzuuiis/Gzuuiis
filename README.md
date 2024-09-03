@@ -13,6 +13,6 @@ Sou Desenvolvedor Web Full-Stack, atualmente estudando Java e Spring!
 
 
 
-- <h3> Back-End:        <h3>  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> ## <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" /> 
+- <h3> Back-End:        <h3>  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />    <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" /> 
 
 - <h3> Banco de Dados:  <h3>  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
